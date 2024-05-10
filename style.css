@@ -1,0 +1,31 @@
+.container{
+    width: 93%;
+    height: 93%;
+    margin-top: 30px;
+    margin-left: 55px;
+    border: 1px solid gray;
+    border-radius: 0px 10px 10px 0px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: #ffff;
+    border: 1px solid gray;
+    background-color: gray;
+}
+.div2{
+    margin-top: 30px;
+    margin-left: 50px; 
+}
+p{
+    font-size: 40px;
+    margin-right: 60px;
+}
+.div3{
+    font-size: 30px;
+    color: gray;
+}
